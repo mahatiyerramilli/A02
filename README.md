@@ -1,10 +1,10 @@
 # A02
-**
+
 PART 1
 How to use Git and GitHub:
-- Install Git on your desktop
+- Install Git on your desktop, use this link: https://git-scm.com/downloads 
 - Make a GitHub account on your browser
-- Once you login to GitHub, you can make a new repository buy looking at the left side of the website and clicking the green button that says "New" on the top left corner
+- Once you login to GitHub, you can make a new repository by looking at the left side of the website and clicking the green button that says "New" on the top left corner
 - You can then fill out all the necessary information and then scroll down to click "Create repository"
 - To store your GitHub repositories on your desktop and not only browser,  you can copy the link of the repository and add it to your Git repository on your system
 
@@ -59,3 +59,5 @@ https://kinsta.com/knowledgebase/git-vs-github/
 https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request 
+
+https://github.com/git-guides/install-git 
